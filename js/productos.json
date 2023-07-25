@@ -1,0 +1,152 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Tarifa Normal",
+        "imagen": "./img/abrigos/food1.png",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1.5
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Paquete Horas mas de 4 Horas.",
+        "imagen": "./img/abrigos/food2.png",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 6.00
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Tarifia Grupal mayor a 4 Personas",
+        "imagen": "./img/abrigos/food3.png",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 6.00
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Paquete Nopturno 9pm a 6am",
+        "imagen": "./img/abrigos/food7.png",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 8.00
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Paquete Mensual",
+        "imagen": "./img/abrigos/food3a.png",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 50.00
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Sandwiches",
+        "imagen": "./img/Camisetas/food4.png",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "Camisetas"
+        },
+        "precio": 3.00
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Brownies",
+        "imagen": "./img/Camisetas/food5.png",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "Camisetas"
+        },
+        "precio": 2.00
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Donas",
+        "imagen": "./img/Camisetas/food6.png",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "Camisetas"
+        },
+        "precio": 2.00
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Snack",
+        "imagen": "./img/Camisetas/food6a.png",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "Camisetas"
+        },
+        "precio": 1.00
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Salteñas",
+        "imagen": "./img/Camisetas/salte.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "Camisetas"
+        },
+        "precio": 1.05
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "Pan con Huevo",
+        "imagen": "./img/Camisetas/panH.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "Camisetas"
+        },
+        "precio": 1.00
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Gaseosas Pequeñas",
+        "imagen": "./img/pantalones/gas.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1.5
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Jugos",
+        "imagen": "./img/pantalones/jugo.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1.5
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Energizantes",
+        "imagen": "./img/pantalones/ener.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 3.00
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Cafe",
+        "imagen": "./img/pantalones/food6.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 2.00
+    }
+]
